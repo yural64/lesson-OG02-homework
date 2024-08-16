@@ -35,4 +35,4 @@
 ### Запрос создан!
 По результатам действий с запросом вы будете получать уведомления в электронную почту.
 
-[Оригинал инструкции](https://github.com/yural64/lesson-OG02-homework/blob/664b8598e73f46a2c49ffde567690092bbe4e5f5/instructions_for_ordering_the_cartridge.docx).
+[Оригинал инструкции](instructions_for_ordering_the_cartridge.docx).
